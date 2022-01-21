@@ -1,0 +1,80 @@
+.form {
+  background-color: #4538ff;
+  margin-bottom: 6%;
+  margin-left: 25%;
+  width: 55%;
+}
+.fullForm {
+}
+.fContent {
+  margin-left: 69px;
+  /* margin-top: 10px; */
+  padding-top: 21px;
+}
+.nameInput {
+  width: 200px;
+  height: 28px;
+}
+.lnameInput {
+  margin-left: 20px;
+  width: 200px;
+  height: 28px;
+}
+.emailInput {
+  height: 28px;
+  width: 430px;
+}
+.commentInput {
+  width: 430px;
+}
+.submitButton {
+  margin-left: 75px;
+  width: 300px;
+  height: 29px;
+  background-color: aqua;
+}
+.headings {
+  color: aqua;
+  font-size: larger;
+}
+
+.subHeading {
+  color: aqua;
+}
+
+.lSubHeading {
+  margin-left: 248px;
+  color: aqua;
+}
+@media (max-width: 390px) {
+  .form {
+    margin-left: -5%;
+    width: 109%;
+  }
+  .commentInput {
+    width: 430px;
+  }
+  .nameInput {
+    width: 200px;
+    height: 28px;
+  }
+  .lnameInput {
+    margin-left: 20px;
+    width: 200px;
+    height: 28px;
+  }
+  .emailInput {
+    width: 428px;
+  }
+
+  .submitButton {
+    margin-left: 80px;
+    width: 300px;
+    height: 29px;
+    background-color: aqua;
+  }
+  .lSubHeading {
+    margin-left: 200px;
+    color: aqua;
+  }
+}

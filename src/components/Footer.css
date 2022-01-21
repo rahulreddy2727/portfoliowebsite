@@ -1,0 +1,43 @@
+.footer {
+  height: 50px;
+  background-color: blue;
+  bottom: 0;
+  position: fixed;
+  /* display: flex; */
+  /* width: 100%; */
+  justify-content: center;
+  margin-left: -154px;
+  width: -webkit-fill-available;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.sI1 {
+  font-size: 40px;
+  color: aqua;
+}
+.sI2 {
+  font-size: 40px;
+  color: aqua;
+}
+.sI3 {
+  font-size: 40px;
+  color: aqua;
+}
+.sI4 {
+  font-size: 40px;
+  color: aqua;
+}
+.sI5 {
+  font-size: 40px;
+  color: aqua;
+}
+@media (max-width: 390px) {
+  .footer {
+    width: 664px;
+    margin-left: -67px;
+  }
+}

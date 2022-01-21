@@ -1,0 +1,91 @@
+.bodyButton {
+  color: var(--e-global-color-5c54ae2);
+  background-color: #33333300;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-radius: 7px;
+  box-shadow: 0px 0px 7px 0px rgb(0 212 255 / 50%);
+  width: 117px;
+  height: 51px;
+}
+.hr {
+  margin-right: 14%;
+  height: 2px;
+  background-color: aqua;
+}
+.fLine {
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 14px;
+  padding-top: 80px;
+  /* padding-bottom: 0%; */
+  /* padding-bottom: 0px; */
+  margin-bottom: -39px;
+  font-size: larger;
+  font-family: "Courier New", Courier, monospace;
+}
+.mainName {
+  font-size: 60px;
+  color: white;
+}
+.fs {
+  margin-top: -40px;
+  color: white;
+}
+.intro {
+  color: white;
+}
+.aboutMe {
+  color: white;
+  margin-top: 86px;
+  font-size: 43px;
+}
+.aContent {
+  margin-top: 1px;
+  color: white;
+  font-family: cursive;
+  font-size: xx-large;
+}
+.bExp {
+  margin-left: 10%;
+}
+h3 {
+  margin-bottom: 20px;
+  color: white;
+}
+p {
+  color: white;
+  font-family: cursive;
+  font-size: xx-large;
+}
+
+.exp1 {
+  display: flex;
+}
+.eBtn {
+  width: 254px;
+  height: 50px;
+  background-color: rgb(68, 68, 255);
+  border-radius: 39px;
+  border-block-colour: white;
+}
+.ie1 {
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 29px;
+}
+.ie2 {
+  color: white;
+  /* background-color: rgb(127, 219, 255); */
+  margin-top: 29px;
+}
+.wbtn1 {
+  /* width: 334px;
+  height: 61px;
+  border-radius: 19px; */
+  width: 254px;
+  height: 50px;
+  background-color: rgb(68, 68, 255);
+  border-radius: 39px;
+  border-block-colour: white;
+}
