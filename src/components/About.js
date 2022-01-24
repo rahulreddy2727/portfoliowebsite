@@ -6,7 +6,7 @@ const About = () => {
       <h1 className="aboutMe">About Me</h1>{" "}
       <div>
         <p className="aContent">
-          Hello! I’m Pranbir, a Frontend ReactJs Web-developer,Bangloore India.
+          Hello! I’m Rahul, a Frontend ReactJs Web-developer,Bangloore India.
           I enjoy creating things that live on the internet, My goal is to
           always build products that provide pixel-perfect, performant
           experiences.
